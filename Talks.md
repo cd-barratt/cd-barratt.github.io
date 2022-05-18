@@ -1,4 +1,4 @@
-## Talks and presentation
+## Presentations (talks/posters)
 
 I am always happy to present my work and discuss about it. Feel free to discuss if you would like me to give a seminar on my work!
 
