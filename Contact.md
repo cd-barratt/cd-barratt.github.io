@@ -4,7 +4,7 @@ Feel free to get in touch!
 ### Email: 
 c.d.barratt@gmail.com
 
-## Current institution: 
+### Current institution: 
 German Centre for Integrative Biodiversity Research (iDiv),
 Puschstrasse 4,
 04103 Leipzig,
