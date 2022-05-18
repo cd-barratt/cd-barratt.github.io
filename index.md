@@ -11,7 +11,7 @@ Oct.2017 - Nov.2020: **PhD student** at the [Centre for Functional and Evolution
 
 When I'm not in the lab, I enjoy hiking and birding (especially in the mountains), playing music (double bass and piano) or handcrafting stuff.
 
-More detail can be found in my [CV](/CV.pdf) (last update January 2022).
+More detail can be found in my [CV](/Barratt_CV.pdf) (last update May 2022).
 
 
 
