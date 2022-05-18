@@ -37,4 +37,4 @@ Aside from my PhD and Postdoc projects I have been and am involved in numerous c
 
 
 
-<img src="https://cd-barratt.cd-barratt.github.io/H_mitchelli_Kibasira.jpg."  align="center" width="700">
+<img src="https://cd-barratt.cd-barratt.github.io/H. mitchelli_Kibasira.jpg."  align="center" width="700">
