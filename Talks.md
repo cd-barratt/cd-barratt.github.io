@@ -24,8 +24,5 @@ I am always happy to present my work and discuss about it. Feel free to discuss 
 * Mar 2014  	Vanishing refuge: The Coastal Forests of Eastern Africa. 16th African Amphibian Working Group conference, Bwindi, Uganda 
 * Apr 2011  	Newly developed microsatellite markers for the East African caecilian, Boulengerula uluguruensis and their utility in congeneric species. British Herpetological Symposium, Bangor, Wales 
 
-![image](https://user-images.githubusercontent.com/42345000/169042260-fa08d4d9-341f-4302-af39-79314f446240.png)
-
-
 
 <img src="https://victorcazalis.github.io/Flamants.JPG"  align="center" width="700">
