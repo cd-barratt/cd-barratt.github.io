@@ -3,15 +3,13 @@
 
 <img style="padding: 0 15px; float: right;" src="https://victorcazalis.github.io/Victor research.jpg"  align="right" width="220">
 
-I am a researcher in Conservation Biology, with particular interests in international conservation, conservation effectiveness, IUCN Red List and birds. My profile combines strong spatial analytic skills (e.g., crossing large database of biodiversity data with habitat data), enthuasiam in academic writing and a naturalist background (mainly birdwatching).
+I am interested in elaborating upon spatial patterns of biodiversity by understanding the ecological and evolutionary processes which may contribute to them.  I am fascinated by natural history and ecology, and seek to understand how we can better conserve biodiversity using a combination of molecular data and biogeographical approaches. My areas of expertise are in population genetics, phylogenetics, next generation sequencing and bioinformatics, and ecoinformatics for spatial and environmental data. I have mostly focused on African and European vertebrates in my research so far but I also work with other taxonomic groups in different geographical areas when I can.
 
-Feb.2021 - Jan.2023: **Post-Doc position** at [iDiv](https://www.idiv.de/en/sdiv.html), working in the [sRedList project](https://www.idiv.de/en/sredlist.html) to develop an innovative and consistent framework for prioritising the updates of Red List assessments. This project is led by [Luca Santini](http://lucasantini.com/) and [Moreno Di Marco](https://www.biodiversitychange.com).
+I am currently a postdoc at iDiv (German Centre for Integrative Biodiversity Research) with an sDiv individual grant for a project to quantify population vulnerability to global change using molecular, ecological and environmental data together.
 
-Oct.2017 - Nov.2020: **PhD student** at the [Centre for Functional and Evolutionary Ecology (CEFE)](https://www.cefe.cnrs.fr/en/) in Montpellier, working with [Ana S.L. Rodrigues](https://www.cefe.cnrs.fr/fr/recherche/bc/dpb/862-c/228-ana-rodrigues) on protected area effectiveness. I graduated on the 9th of November 2020 and my PhD thesis (partly in French) can be found [here](http://theses.fr/2020MONTG019/document).
+From 2017 to 2020 I had a Flexpool grant to work on a project to measure habitat connectivity of chimpanzees over the last 120,000 years and quantify their historical demography using genomic data here at iDiv and the Max Planck Institute (Department of Primatology) in Leipzig.
 
-When I'm not in the lab, I enjoy hiking and birding (especially in the mountains), playing music (double bass and piano) or handcrafting stuff.
-
-More detail can be found in my [CV](/Barratt_CV.pdf) (last update May 2022).
+I gained my PhD in 2017 under the supervision of Simon Loader (NHM London) based in the Biogeography department and Centre for African Studies Basel at the University of Basel, Switzerland, funded by the Humer Foundation for Academic Talent.
 
 
 
