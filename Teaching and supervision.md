@@ -10,7 +10,7 @@
 
 
 ## Supervision
-I am very happy to co-supervise the genomic and species distribution modelling work of several wonderful students affiliated with iDiv:
+I am very happy to co-supervise the genomic and/or species distribution modelling work of several wonderful students affiliated with iDiv:
 * Marilia Souza Lucas (2021-)
 * Francisco Velasquez Puentes (2019-)
 * Jeprianto Manurung (2019-)
