@@ -1,4 +1,4 @@
-# About
+# Research
 [Google Scholar](https://scholar.google.com/citations?user=9Qx6KAIAAAAJ&hl=en)  \|  [ORCID](https://orcid.org/0000-0003-3267-8855)  \|  [Publons](https://publons.com/researcher/1351958/christopher-david-barratt/)
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt/cd-barratt.github.io/Chris.png"  align="right" width="220">
