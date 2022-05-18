@@ -1,9 +1,6 @@
-## Profile
+# Profile
 Profile
 I am an evolutionary ecologist focusing on molecular (bioinformatic) and spatial (eco-informatic) analyses to understand biodiversity patterns and processes, and providing tools and insights to aid biodiversity and ecosystem management
-
-![image](https://user-images.githubusercontent.com/42345000/169040207-5b99028f-5031-455f-874a-51426b6379d7.png)
-
 
 ## Research projects
 ### Life on the edge
@@ -24,7 +21,6 @@ Sebastian Steinfartz, University of Leipzig, German
 
 ### Dynamic aspects of chimpanzee diversification using paleooclimate and genomic data
 In collaboration with iDiv (German Centre for Integrative Biodiversity Research), the Department of Primatology at the Max Planck Institute for Evolutionary Anthropology, and the Comparative Genomics Lab at the Institut Biologia Evolutiva, Universitat Pompeu Fabra (Barcelona) I investigate the historical habitat connectivity and evolution of chimpanzee populations over the last 120,000 years using paleoclimate and genomic data. These data are providing novel information about the environmental and evolutionary processes affecting chimpanzee diversification. In turn this helps us understand their complex genetic and cultural diversity, simultaneously providing essential conservation data for our closest living relative.
-
 
 ## Past 
 Biodiversity value and conservation of the Coastal Forests of East Africa
