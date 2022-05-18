@@ -1,8 +1,4 @@
-# Profile
-Profile
-I am an evolutionary ecologist focusing on molecular (bioinformatic) and spatial (eco-informatic) analyses to understand biodiversity patterns and processes, and providing tools and insights to aid biodiversity and ecosystem management
-
-## Research projects
+# Research projects
 ### Life on the edge
 Global change threatens biodiversity, with many species unable to respond fast enough to changing conditions due to rapid climate change and anthropogenic impacts. Population declines are our early warning signals for larger scale declines in species, so assessing the adaptive capacity of populations within species and quantifying their vulnerability under future global change remains a priority for biodiversity research.
 
