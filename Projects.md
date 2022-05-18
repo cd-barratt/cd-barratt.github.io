@@ -35,4 +35,4 @@ Aside from my PhD and Postdoc projects I have been and am involved in numerous c
 * The suitability of road verges for protected grassland plant species assessed at the gene level (PI Sabrina Trager)
 
 
-<img src="https://cd-barratt.github.io/H.mitchelli_Kibasira.jpg"  align="center" width="700">
+<img src="https://cd-barratt.github.io/H. mitchelli_Kibasira.JPG"  align="center" width="700">
