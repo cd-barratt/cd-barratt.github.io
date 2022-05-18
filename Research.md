@@ -1,13 +1,13 @@
-# Research
+## Research
 [Google Scholar](https://scholar.google.com/citations?user=9Qx6KAIAAAAJ&hl=en)  \|  [ORCID](https://orcid.org/0000-0003-3267-8855)  \|  [Publons](https://publons.com/researcher/1351958/christopher-david-barratt/)
 
-<img style="padding: 0 15px; float: right;" src="https://cd-barratt/cd-barratt.github.io/Chris.png"  align="right" width="220">
+<img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/Chris.png"  align="right" width="220">
 
-## Research Line
+### Research Line
 My research aims are to understand evolutionary and ecological biodiversity patterns and the underlying mechanisms that shape them, to provide insights and tools that assist biodiversity management in our rapidly changing world. I i) investigate patterns and mechanisms shaping diversity (genetic, geographical and traits) in changing environments across individuals, populations and species, and ii) develop cutting edge bio- and eco-informatic tools for practical applications in biodiversity and ecosystem monitoring and management. My areas of expertise are in population genetics, phylogenetics, next generation sequencing and bioinformatics, and ecoinformatics for spatial and environmental data. I have mostly focused on African and European vertebrates in my research so far but I also work with other taxonomic groups in different geographical areas via my collaborative network.
 
 
-## Academic history post-PhD
+### Academic history post-PhD
 I am currently a postdoc at iDiv (German Centre for Integrative Biodiversity Research) with an sDiv individual grant main PI) for a project to quantify population vulnerability to global change using molecular, ecological and environmental data together. For more information see here.
 
 From 2018 to 2021 I was awarded Flexpool grant as main PI to work on a project to measure habitat connectivity of chimpanzees over the last 120,000 years and quantify their historical demography using genomic data here at iDiv and the Max Planck Institute (Department of Primatology) in Leipzig (see Barratt et al. 2021, Lester et al. 2021, Kalan et al. 2020, publications forthcoming).
