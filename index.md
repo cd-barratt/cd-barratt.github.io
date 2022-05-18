@@ -1,7 +1,7 @@
 ## About
 [Google Scholar](https://scholar.google.com/citations?user=t42adKwAAAAJ&hl=fr&oi=sra)  \|  [ORCID](https://orcid.org/0000-0003-0850-883X)  \|  [Publons](https://publons.com/researcher/1605670/victor-cazalis/)
 
-<img style="padding: 0 15px; float: right;" src="https://victorcazalis.github.io/Victor research.jpg"  align="right" width="220">
+<img style="padding: 0 15px; float: right;" src="https://victorcazalis.github.io/Chris.jpg"  align="right" width="220">
 
 I am interested in elaborating upon spatial patterns of biodiversity by understanding the ecological and evolutionary processes which may contribute to them.  I am fascinated by natural history and ecology, and seek to understand how we can better conserve biodiversity using a combination of molecular data and biogeographical approaches. My areas of expertise are in population genetics, phylogenetics, next generation sequencing and bioinformatics, and ecoinformatics for spatial and environmental data. I have mostly focused on African and European vertebrates in my research so far but I also work with other taxonomic groups in different geographical areas when I can.
 
