@@ -1,15 +1,14 @@
 ## Research projects (as main PI)
-### [(Life on the edge (2021-2024)](https://christopherdbarratt.wordpress.com/2021/06/)
+### [Life on the edge (2021-2024)](https://christopherdbarratt.wordpress.com/2021/06/)
 Global change threatens biodiversity, with many species unable to respond fast enough to changing conditions due to rapid climate change and anthropogenic impacts. Population declines are our early warning signals for larger scale declines in species, so assessing the adaptive capacity of populations within species and quantifying their vulnerability under future global change remains a priority for biodiversity research. This is the focus of my recently funded project, “Life on the edge: A new bioinformatic toolbox to conserve wildlife populations under threat from global change”, for which I obtained a 3 year grant from sDiv, the synthesis centre of iDiv (German Centre for Integrative Biodiversity Research). In this project I’ll integrate ecological (traits, species distribution models), environmental (climate change forecasts, landscape connectivity) and genome-wide molecular data (neutral and adaptive diversity) for populations across multiple species in a novel, automated and extendable climate change vulnerability assessment framework. Collaborators: Orly Razgour (University of Exeter, UK), Brenna Forester (US Fish and Wildlife Service), Renske Onstein (iDiv, Leipzig, Germany), Malin Pinsky (Rutgers University, USA), Hjalmar Kühl, (MPI-EVA and iDiv, Leipzig, Germany), Sebastian Steinfartz, (University of Leipzig, Germany)
 
 ### Cryptic genetic diversity under climate change (2022-2023) (webpage under construction)
 I study cryptic diversity within the _Hyperolius mitchelli_ species complex across East Africa. This work will generate a new genome-wide dataset for these amphibians and combine genetic diversity estimates with climate change forecasts and species distribution models to predict potential future population declines.
 Collaborators: John V. Lyakurwa (University of Dar es Salaam, Tanzania), Beryl Bwong (National Museums of Kenya), Hendrik Müller (University of Halle, Germany), Christoph Conrad (University of Halle, Germany), Simon Loader (National History Museum, London, UK), Sebastian Steinfartz (Univeristy of Leipzig, Germany)
 
-### [(Dynamic aspects of chimpanzee diversification using paleooclimate and genomic data (2018-2021)](https://christopherdbarratt.wordpress.com/2018/04/)
+### [Dynamic aspects of chimpanzee diversification using paleooclimate and genomic data (2018-2021)](https://christopherdbarratt.wordpress.com/2018/04/)
 I investigate the historical habitat connectivity and evolution of chimpanzee populations over the last 120,000 years using paleoclimate and genomic data. These data are providing novel information about the environmental and evolutionary processes affecting chimpanzee diversification. In turn this helps us understand their complex genetic and cultural diversity, simultaneously providing essential conservation data for our closest living relative.
 Collaborators: Hjalmar Kühl (MPI-EVA and iDiv, Leipzig, Germany), Mimi Arandjelovic (MPI-EVA and iDiv, Leipzig, Germany), Christoph Boesch (MPI-EVA Leipzig, Germany), Paolo Gratton (University of Rome Tor Vergata), Jack Lester ((MPI-EVA Leipzig, Germany), Renske Onstein (iDiv, Leipzig, Germany)
-
 
 
 ## Curent collaborative projects (as co-PI)
