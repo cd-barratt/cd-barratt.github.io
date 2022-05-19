@@ -12,7 +12,7 @@ Field instructor for ecological data collection (amphibians, birds, butterflies,
 
 
 ### Supervision
-I have mentored and supervised several undergraduate and postgraduate students at many academic levels (BTEC, BSc, MSc). For details please see my full [(CV)](\Barratt_full_CV.pdf)
+I have mentored and supervised several undergraduate and postgraduate students at many academic levels (BTEC, BSc, MSc). For details please see my full [CV](/Barratt_full_CV.pdf)
 
 I currently co-supervise the genomic and/or species distribution modelling work of four students at iDiv:
 * [(Marilia Souza Lucas)](https://mariliasouza20.wixsite.com/marilia) (2021-)
