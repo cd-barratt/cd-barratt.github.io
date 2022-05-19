@@ -7,9 +7,15 @@
 ### Workshops
 * Designed and led several 1-2 day workshops at the University of Basel and iDiv, mainly based on understanding how to process and interpret genomic data (e.g. data processing, population structure, genetic diversity, demopgraphic history) and species distribution modelling. (2015-)
 
+### Biodiversity data collection techniques and field biology
+Field instructor for ecological data collection (amphibians, birds, butterflies, small mammals, carnivores and large mammal tracking) - Frontier Tanzania Savannah Research Project (2008-2009)
+
+
 ### Supervision
-I am very happy to co-supervise the genomic and/or species distribution modelling work of several wonderful students affiliated with iDiv:
-* Marilia Souza Lucas (2021-)
-* Francisco Velasquez Puentes (2019-)
-* Jeprianto Manurung (2019-)
-* Laura Mendez Cuellar (2018-)
+I have mentored and supervised several undergraduate and postgraduate students at many academic levels (BTEC, BSc, MSc). For details please see my full [(CV)](\Barratt_full_CV.pdf)
+
+I currently co-supervise the genomic and/or species distribution modelling work of four students at iDiv:
+* [(Marilia Souza Lucas)](https://mariliasouza20.wixsite.com/marilia) (2021-)
+* [(Francisco Velasquez Puentes)](https://www.idiv.de/en/profile/1148.html) (2019-)
+* [(Jeprianto Manurung)](https://www.researchgate.net/profile/Jeprianto-Manurung) (2019-)
+* [(Laura Mendez Cuellar)](https://www.idiv.de/en/profile/1062.html) (2018-)
