@@ -8,7 +8,7 @@
 * Designed and led several 1-2 day workshops at the University of Basel and iDiv, mainly based on understanding how to process and interpret genomic data (e.g. data processing, population structure, genetic diversity, demopgraphic history) and species distribution modelling. (2015-)
 
 ### Biodiversity data collection techniques and field biology
-Field instructor for ecological data collection (amphibians, birds, butterflies, small mammals, carnivores and large mammal tracking) - Frontier Tanzania Savannah Research Project (2008-2009)
+* Field instructor for ecological data collection (amphibians, birds, butterflies, small mammals, carnivores and large mammal tracking) - Frontier Tanzania Savannah Research Project (2008-2009)
 
 
 ### Supervision
