@@ -25,11 +25,11 @@ Aside from my PhD and Postdoc projects I have been and am involved in numerous c
 * The suitability of road verges for protected grassland plant species assessed at the gene level (PI Sabrina Trager)
 
 ## Recently published side projects (<5 years)
-* The compilation of an amphibian checklist for Shimba Hills National Reserve, Kenya [((here))](https://www.ajol.info/index.php/jeanh/article/view/162372)
-* Large-scale collaborative efforts on African amphibian evolution/biogeographical studies ([(here)](https://www.sciencedirect.com/science/article/pii/S1055790316302433), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790317303147), [(here)](https://academic.oup.com/sysbio/article/68/6/859/5477408?login=true), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790316303451)
-* The effects of missing data on phylogenetic inference using short read high-throughput (RAD-seq) data ([(here))](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12335)
-* How environmental variability in chimpanzee habitats has a positive influence on behavioural diversity ([(here))](https://www.nature.com/articles/s41467-020-18176-3)
-* Recent connectivity between chimpanzee populations and subspecies across Africa ([(here))](https://www.nature.com/articles/s42003-021-01806-x)
-* The relation ship between fruit colour and trichromatic colour vision in primates ([(here))](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2731)
-* A review on existing approaches in macroevolution and conservation ([(here))](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05557)
+* The compilation of an amphibian checklist for Shimba Hills National Reserve, Kenya [(here)](https://www.ajol.info/index.php/jeanh/article/view/162372)
+* Large-scale collaborative efforts on African amphibian evolution/biogeographical studies [(here)](https://www.sciencedirect.com/science/article/pii/S1055790316302433), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790317303147), [(here)](https://academic.oup.com/sysbio/article/68/6/859/5477408?login=true), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790316303451)
+* The effects of missing data on phylogenetic inference using short read high-throughput (RAD-seq) data [(here)](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12335)
+* How environmental variability in chimpanzee habitats has a positive influence on behavioural diversity [(here)](https://www.nature.com/articles/s41467-020-18176-3)
+* Recent connectivity between chimpanzee populations and subspecies across Africa [(here)](https://www.nature.com/articles/s42003-021-01806-x)
+* The relation ship between fruit colour and trichromatic colour vision in primates [(here)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2731)
+* A review on existing approaches in macroevolution and conservation [(here)](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05557)
 <img src="https://cd-barratt.github.io/H. mitchelli_Kibasira.JPG"  align="center" width="700">
