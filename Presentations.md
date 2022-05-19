@@ -1,6 +1,6 @@
 ## Presentations (talks/posters)
 
-As well as presenting my work with collaborators' groups I often present at international conferences, and for invited seminars. Please feel free to contact me if you would like me to give a seminar in your department!
+As well as presenting my work with collaborators' groups I often present at international conferences, and for invited seminars. I've given around 10 talks at international conferences and around 10 invited talks around the world. Please feel free to contact me if you would like me to give a seminar in your department!
 
 A full list of my talks can be found in my [CV](/Barratt_CV_full.pdf)
 
