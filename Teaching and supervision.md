@@ -1,6 +1,6 @@
 ## Teaching
 
-## Formal teaching
+### Formal teaching
 * Guest Lecturer for MSc in Macroecology, Macroevolution and Global change at the University of Leipzig (includes 2 lectures, designing and leading a 1 day practical course, supervising MSc project work and assessing exams). (2020-)
 * Teaching Assistant for BSc level Biology - ~200 hours over 2.5 years at the University of Salford (2010-2012)
 
