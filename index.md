@@ -7,12 +7,12 @@
 My research aims are to understand evolutionary and ecological biodiversity patterns and the underlying mechanisms that shape them, to provide insights and tools that assist biodiversity management in our rapidly changing world. I i) investigate patterns and mechanisms shaping diversity (genetic, geographical and traits) in changing environments across individuals, populations and species, and ii) develop cutting edge bio- and eco-informatic tools for practical applications in biodiversity and ecosystem monitoring and management. My areas of expertise are in population genetics, phylogenetics, next generation sequencing and bioinformatics, and ecoinformatics for spatial and environmental data. I have mostly focused on African and European vertebrates in my research so far but I also work with other taxonomic groups in different geographical areas via my collaborative network.
 
 ## CV
-Please see here for a full CV: https://cd-barratt.github.io/Barratt_CV.pdf
+For a full CV see [here](/Barratt_CV_full.pdf)
 
 ### Academic history post-PhD
 I am currently a postdoc at iDiv (German Centre for Integrative Biodiversity Research) with an sDiv individual grant main PI) for a project to quantify population vulnerability to global change using molecular, ecological and environmental data together. For more information see here.
 
-From 2018 to 2021 I was awarded Flexpool grant as main PI to work on a project to measure habitat connectivity of chimpanzees over the last 120,000 years and quantify their historical demography using genomic data here at iDiv and the Max Planck Institute (Department of Primatology) in Leipzig (see Barratt et al. 2021, Lester et al. 2021, Kalan et al. 2020, publications forthcoming).
+From 2018 to 2021 I was awarded Flexpool grant as main PI to work on a project to measure habitat connectivity of chimpanzees over the last 120,000 years and quantify their historical demography using genomic data here at iDiv and the Max Planck Institute (Department of Primatology) in Leipzig (see [(Barrattt et al. 2021)](https://onlinelibrary.wiley.com/doi/full/10.1002/ajp.23320), Lester et al. 2021, Kalan et al. 2020, publications forthcoming).
 
 In April 2017 I received my PhD from the University of Basel, Switzerland. For this work I studied the biodiversity patterns and conservation of the Coastal Forests of Eastern Africa biodiversity hotspot using amphibians as a model to describe new species (Barratt et al. 2017a), understand community assembly and phylogenetic structure (Barratt et al. 2017b) and use genome-wide data to test alternative diversification scenarios and demographic histories (Barratt et al. 2018). This work was supervised by Dr. Simon loader and funded by a competitive grant from the Humer Foundation for Academic Talent.
 
