@@ -1,7 +1,7 @@
 ## Profile
 [Google Scholar](https://scholar.google.com/citations?user=9Qx6KAIAAAAJ&hl=en)  \|  [ORCID](https://orcid.org/0000-0003-3267-8855)  \|  [Publons](https://publons.com/researcher/1351958/christopher-david-barratt/)
 
-<img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/Chris.png"  align="right" width="220">
+<img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/Chris.png"  align="right" width="150">
 
 ### Research Line
 My research aims are to understand evolutionary and ecological biodiversity patterns and the underlying mechanisms that shape them, to provide insights and tools that assist biodiversity management in our rapidly changing world. I i) investigate patterns and mechanisms shaping diversity (genetic, geographical and traits) in changing environments across individuals, populations and species, and ii) develop cutting edge bio- and eco-informatic tools for practical applications in biodiversity and ecosystem monitoring and management. My areas of expertise are in population genetics, phylogenetics, next generation sequencing and bioinformatics, and ecoinformatics for spatial and environmental data. I have mostly focused on African and European vertebrates in my research so far but I also work with other taxonomic groups in different geographical areas via my collaborative network.
