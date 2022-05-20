@@ -6,7 +6,7 @@ Global change threatens biodiversity, with many species unable to respond fast e
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/H. mitchelli_Kibasira.JPG"  align="right" width="150">
 ### Cryptic genetic diversity under climate change (2022-2023) (webpage under construction)
 I study cryptic diversity within the _Hyperolius mitchelli_ species complex across East Africa. 
-This work is a follow up from [Bwong et al 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155) and will generate a new genome-wide dataset for these amphibians and combine genetic diversity estimates with climate change forecasts and species distribution models to predict potential future population declines.
+This work is a follow up from [(Bwong et al. 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155)) and will generate a new genome-wide dataset for these amphibians and combine genetic diversity estimates with climate change forecasts and species distribution models to predict potential future population declines.
 Collaborators: John V. Lyakurwa (University of Dar es Salaam, Tanzania), Beryl Bwong (National Museums of Kenya), Hendrik Müller (University of Halle, Germany), Christoph Conrad (University of Halle, Germany), Simon Loader (National History Museum, London, UK), Sebastian Steinfartz (Univeristy of Leipzig, Germany)
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/Dynamic_aspects.jpeg"  align="right" width="350"><img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/PanAf.jpeg"  align="right" width="400">
@@ -19,7 +19,7 @@ Collaborators: Hjalmar Kühl (MPI-EVA and iDiv, Leipzig, Germany), Mimi Arandjel
 Aside from my PhD and Postdoc projects I have been and am involved in numerous collaborations and projects that I supervise/co-supervise. Some of these are listed below:
 
 ### Ongoing:
-* Anthropogenic impact on stress hormones and genetic diversity of the crested macaque across Indonesia (PI [Marlen Kücklich])(https://www.eva.mpg.de/pbe/people/marlen-kuecklich/)
+* Anthropogenic impact on stress hormones and genetic diversity of the crested macaque across Indonesia (PI [Marlen Kücklich](https://www.eva.mpg.de/pbe/people/marlen-kuecklich/))
 * The suitability of road verges for protected grassland plant species assessed at the gene level (PI [Sabrina Trager](https://www.botanik.uni-halle.de/pflanzenoekologie/sabrina_traeger/))
 * Conservation genomics of _Alytes obstetricans_ in Germany (collaboration with [NABU EU-LIFE](https://niedersachsen.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/life-bovar/index.html) project)
 * The genomic consequences of megafaunal frugivore extinctions on the palms of Madagascar (co-supervisor of Laura Mendez Cuellar)
