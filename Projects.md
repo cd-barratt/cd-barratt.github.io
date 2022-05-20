@@ -27,7 +27,7 @@ Aside from my PhD and Postdoc projects I have been and am currently involved in 
 * Micro- and macro-evolutionary dynamics of seasonally dry neotropical forests [(Francisco Velasquez Puentes)](https://www.idiv.de/en/profile/1148.html)
 * Mechanisms of rapid evolution in native and non-native populations of the invasive weed _Conyza canadensis_ [(Marilia Souza Lucas)](https://mariliasouza20.wixsite.com/marilia)
 
-## Recently published side projects (<5 years)
+## Recently published side projects (in the last ~5 years)
 * The compilation of an amphibian checklist for Shimba Hills National Reserve, Kenya [(here)](https://www.ajol.info/index.php/jeanh/article/view/162372)
 * Large-scale collaborative efforts on African amphibian evolution/biogeographical studies [(here)](https://www.sciencedirect.com/science/article/pii/S1055790316302433), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790317303147), [(here)](https://academic.oup.com/sysbio/article/68/6/859/5477408?login=true), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790316303451)
 * The effects of missing data on phylogenetic inference using short read high-throughput (RAD-seq) data [(here)](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12335)
