@@ -10,4 +10,9 @@ Puschstrasse 4,
 04103 Leipzig,
 Germany
 
-<img src="https://cd-barratt.github.io/iDiv_logo.png"  align="left" width="300">
+<img src="https://cd-barratt.github.io/iDiv_logo.png"  align="left" width="500">
+
+
+
+
+
