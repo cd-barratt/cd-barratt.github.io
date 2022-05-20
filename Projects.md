@@ -26,8 +26,6 @@ Aside from my PhD and Postdoc projects I have been and am currently involved in 
 * Evolutionary ecology of the mangrove species Lumnitzera across its range and the role of connectivity and isolation in phylogeographic patterns (co-supervisor of [(Jeprianto Manurung)](https://www.researchgate.net/profile/Jeprianto-Manurung))
 * Micro- and macro-evolutionary dynamics of seasonally dry neotropical forests (co-supervisor of [(Francisco Velasquez Puentes)](https://www.idiv.de/en/profile/1148.html))
 * Mechanisms of rapid evolution in native and non-native populations of the invasive weed Conyza canadensis (co-supervisor of [(Marilia Souza Lucas)](https://mariliasouza20.wixsite.com/marilia))
-* The impact of new genetic information on species vulnerability to global change: using the African elephant as a case study (Msc student project)
-
 
 ## Recently published side projects (<5 years)
 * The compilation of an amphibian checklist for Shimba Hills National Reserve, Kenya [(here)](https://www.ajol.info/index.php/jeanh/article/view/162372)
