@@ -5,10 +5,10 @@ Global change threatens biodiversity, with many species unable to respond fast e
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/H. mitchelli_Kibasira.JPG"  align="right" width="150">
 ### Cryptic genetic diversity under climate change (2022-2023) (webpage under construction)
-I study cryptic diversity within the _Hyperolius mitchelli_ species complex across East Africa. This work will generate a new genome-wide dataset for these amphibians and combine genetic diversity estimates with climate change forecasts and species distribution models to predict potential future population declines.
+I study cryptic diversity within the _Hyperolius mitchelli_ species complex across East Africa. This work is a follow up from [Bwong et al. 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155) and will generate a new genome-wide dataset for these amphibians and combine genetic diversity estimates with climate change forecasts and species distribution models to predict potential future population declines.
 Collaborators: John V. Lyakurwa (University of Dar es Salaam, Tanzania), Beryl Bwong (National Museums of Kenya), Hendrik Müller (University of Halle, Germany), Christoph Conrad (University of Halle, Germany), Simon Loader (National History Museum, London, UK), Sebastian Steinfartz (Univeristy of Leipzig, Germany)
 
-<img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/Dynamic_aspects.jpeg"  align="right" width="350">
+<img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/PanAf.jpeg"  align="left" width="350">
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/Dynamic_aspects.jpeg"  align="right" width="350">
 ### [Dynamic aspects of chimpanzee diversification using paleoclimate and genomic data (2018-2021)](https://christopherdbarratt.wordpress.com/2018/04/)
 I investigate the historical habitat connectivity and evolution of chimpanzee populations over the last 120,000 years using paleoclimate and genomic data. These data are providing novel information about the environmental and evolutionary processes affecting chimpanzee diversification. In turn this helps us understand their complex genetic and cultural diversity, simultaneously providing essential conservation data for our closest living relative.
