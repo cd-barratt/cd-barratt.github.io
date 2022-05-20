@@ -15,7 +15,7 @@ I investigate the historical habitat connectivity and evolution of chimpanzee po
 Collaborators: Hjalmar Kühl (MPI-EVA and iDiv, Leipzig, Germany), Mimi Arandjelovic (MPI-EVA and iDiv, Leipzig, Germany), Christoph Boesch (MPI-EVA Leipzig, Germany), Paolo Gratton (University of Rome Tor Vergata), Jack Lester ((MPI-EVA Leipzig, Germany), Renske Onstein (iDiv, Leipzig, Germany)
 
 
-## Curent collaborative projects (as co-PI)
+## Current collaborative projects (as co-PI)
 Aside from my PhD and Postdoc projects I have been and am involved in numerous collaborations and projects that I supervise/co-supervise. Some of these are listed below:
 
 ### Ongoing:
