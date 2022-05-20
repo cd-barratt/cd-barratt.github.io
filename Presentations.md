@@ -4,4 +4,4 @@ As well as presenting my work with collaborators' groups I often present at inte
 
 A full list of my talks can be found in my [CV](/Barratt_CV_full.pdf)
 
-<img src="https://cd-barratt.github.io/Talk.jpg"  align="center" width="700">
+<img src="https://cd-barratt.github.io/Talk.jpg"  align="center" width="400">
