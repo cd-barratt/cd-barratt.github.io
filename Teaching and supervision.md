@@ -2,12 +2,13 @@
 
 ### Formal teaching
 * Guest Lecturer for MSc in Macroecology, Macroevolution and Global change at the University of Leipzig (includes 2 lectures, designing and leading a 1 day practical course, supervising MSc project work and assessing exams). (2020-)
-* Teaching Assistant for BSc level Biology - ~200 hours over 2.5 years at the University of Salford (2010-2012)
+* Teaching Assistant for BSc level Biology students - ~200 hours over 2.5 years at the University of Salford (2010-2012)
 
 ### Workshops
 * Designed and led several 1-2 day workshops at the University of Basel and iDiv, mainly based on understanding how to process and interpret genomic data (e.g. data processing, population structure, genetic diversity, demopgraphic history) and species distribution modelling. (2015-)
 
 ### Biodiversity data collection techniques and field biology
+* Field teaching assistant for BSc level Biology students - 3 residential field courses and ~10 single day excursions to train practical skills in field identification of species and data collection techniques (2010-2012)
 * Field instructor for ecological data collection (amphibians, birds, butterflies, small mammals, carnivores and large mammal tracking) - Frontier Tanzania Savannah Research Project (2008-2009)
 
 
