@@ -10,5 +10,5 @@ I am trained in frequentist and Bayesian statistics and have strong analytical a
 * Linear/Bayesian regression/model selection and averaging - glmulti, mumin, brms
 
 <img src="https://cd-barratt.github.io/R_logo.svg.png"  align="left" width="500">
-<img src="https://cd-barratt.github.io/R_logo.svg.png"  align="centre" width="500">
-<img src="https://cd-barratt.github.io/R_logo.svg.png"  align="right" width="500">
+<img src="https://cd-barratt.github.io/Python-Logo.png"  align="centre" width="500">
+<img src="https://cd-barratt.github.io/Gnu-bash-logo.svg"  align="right" width="500">
