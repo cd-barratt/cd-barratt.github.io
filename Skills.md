@@ -9,4 +9,6 @@ I am trained in frequentist and Bayesian statistics and have strong analytical a
 * Species distribution modelling - single algorithm (e.g. random forest, maxent, glm, booster regression trees) ensemble modelling approaches (sdm, biomod2)
 * Linear/Bayesian regression/model selection and averaging - glmulti, mumin, brms
 
-<img src="https://cd-barratt.github.io/R_logo.svg.png"  align="left" width="100"><img src="https://cd-barratt.github.io/Python-Logo.png"  align="centre" width="200"><img src="https://cd-barratt.github.io/Gnu-bash-logo.svg.png"  align="right" width="200">
+<img src="https://cd-barratt.github.io/R_logo.svg.png"  align="left" width="100">
+<img src="https://cd-barratt.github.io/Python-Logo.png"  align="left" width="200">
+<img src="https://cd-barratt.github.io/Gnu-bash-logo.svg.png"  align="left" width="200">
