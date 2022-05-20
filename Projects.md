@@ -23,9 +23,9 @@ Aside from my own projects, I am involved in numerous ongoing collaborations (al
 * Anthropogenic impact on stress hormones and genetic diversity of the crested macaque across Indonesia (PI [Marlen Kücklich](https://www.eva.mpg.de/pbe/people/marlen-kuecklich/), Max Planck Institute for Evolutionary Anthropology, Leipzig)
 * The suitability of road verges for protected grassland plant species assessed at the gene level (PI [Sabrina Trager](https://www.botanik.uni-halle.de/pflanzenoekologie/sabrina_traeger/), Martin Luther University, Halle)
 * Conservation genomics of _Alytes obstetricans_ in Germany (collaboration with Sebastian Steinfartz (University of Leipzig) and [NABU EU-LIFE](https://niedersachsen.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/life-bovar/index.html) project)
-* The genomic consequences of megafaunal frugivore extinctions on the palms of Madagascar [(Laura Mendez Cuellar (iDiv, Leipzig)](https://www.idiv.de/en/profile/1062.html)
-* Evolutionary ecology of the mangrove species _Lumnitzera_ across its range and the role of connectivity and isolation in phylogeographic patterns [(Jeprianto Manurung (University of Leipzig))](https://www.researchgate.net/profile/Jeprianto-Manurung)
-* Micro- and macro-evolutionary dynamics of seasonally dry neotropical forests [(Francisco Velasquez Puentes (iDiv, Leipzig)](https://www.idiv.de/en/profile/1148.html)
+* The genomic consequences of megafaunal frugivore extinctions on the palms of Madagascar [(Laura Mendez Cuellar, iDiv, Leipzig)](https://www.idiv.de/en/profile/1062.html)
+* Evolutionary ecology of the mangrove species _Lumnitzera_ across its range and the role of connectivity and isolation in phylogeographic patterns [(Jeprianto Manurung, University of Leipzig)](https://www.researchgate.net/profile/Jeprianto-Manurung)
+* Micro- and macro-evolutionary dynamics of seasonally dry neotropical forests [(Francisco Velasquez Puentes, iDiv, Leipzig)](https://www.idiv.de/en/profile/1148.html)
 * Mechanisms of rapid evolution in native and non-native populations of the invasive weed _Conyza canadensis_ [(Marilia Souza Lucas, Martin Luther University, Halle)](https://mariliasouza20.wixsite.com/marilia)
 
 ## Recently published side projects (in the last ~5 years)
