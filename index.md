@@ -18,4 +18,4 @@ In April 2017 I received my PhD from the University of Basel, Switzerland. For t
 
 
 
-<img src="https://cd-barratt.github.io/PICT1632.JPG"  align="center" width="900">
+<img src="https://cd-barratt.github.io/PICT1632.JPG"  align="center" width="1400">
