@@ -16,7 +16,7 @@ Collaborators: Hjalmar Kühl (MPI-EVA and iDiv, Leipzig, Germany), Mimi Arandjel
 
 
 ## Current collaborative projects (as co-PI)
-Aside from my PhD and Postdoc projects I have been and am involved in numerous collaborations and projects that I supervise/co-supervise. Some of these are listed below:
+Aside from my PhD and Postdoc projects I have been and am currently involved in numerous collaborations (also with students that I supervise). Some of these are listed below:
 
 ### Ongoing:
 * Anthropogenic impact on stress hormones and genetic diversity of the crested macaque across Indonesia (PI [Marlen Kücklich](https://www.eva.mpg.de/pbe/people/marlen-kuecklich/))
