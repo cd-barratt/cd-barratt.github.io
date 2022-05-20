@@ -12,7 +12,7 @@ Collaborators: John V. Lyakurwa (University of Dar es Salaam, Tanzania), Beryl B
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/Dynamic_aspects.jpeg"  align="right" width="350"><img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/PanAf.jpeg"  align="right" width="400">
 ### [Dynamic aspects of chimpanzee diversification using paleoclimate and genomic data (2018-2021)](https://christopherdbarratt.wordpress.com/2018/04/)
 I investigate the historical habitat connectivity and evolution of chimpanzee populations over the last 120,000 years using paleoclimate and genomic data. These data are providing novel information about the environmental and evolutionary processes affecting chimpanzee diversification. In turn this helps us understand their complex genetic and cultural diversity, simultaneously providing essential conservation data for our closest living relative.
-Collaborators: Hjalmar Kühl (MPI-EVA and iDiv, Leipzig, Germany), Mimi Arandjelovic (MPI-EVA and iDiv, Leipzig, Germany), Christoph Boesch (MPI-EVA Leipzig, Germany), Paolo Gratton (University of Rome Tor Vergata), Jack Lester ((MPI-EVA Leipzig, Germany), Renske Onstein (iDiv, Leipzig, Germany)
+Collaborators: Hjalmar Kühl (MPI-EVA and iDiv, Leipzig, Germany), Mimi Arandjelovic (MPI-EVA and iDiv, Leipzig, Germany), Christoph Boesch (MPI-EVA Leipzig, Germany), Paolo Gratton (University of Rome Tor Vergata), Jack Lester ((MPI-EVA Leipzig, Germany), Tomas Marques-Bonet (Universitat Pompeu Fabra, Barcelona), Renske Onstein (iDiv, Leipzig, Germany)
 
 
 ## Current collaborative projects (as co-PI)
