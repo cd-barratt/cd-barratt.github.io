@@ -20,8 +20,8 @@ Aside from my PhD and Postdoc projects I have been and am involved in numerous c
 * Micro- and macro-evolutionary dynamics of seasonally dry neotropical forests (co-supervisor of Francisco Velasquez Puentes)
 * Mechanisms of rapid evolution in native and non-native populations of the invasive weed Conyza canadensis (co-supervisor of Marilia Souza Lucas)
 * The impact of new genetic information on species vulnerability to global change: using the African elephant as a case study (Msc student project)
-* Anthropogenic impact on stress hormones and genetic diversity of the crested macaque across Indonesia (PI Marlen Kücklich)
-* The suitability of road verges for protected grassland plant species assessed at the gene level (PI Sabrina Trager)
+* Anthropogenic impact on stress hormones and genetic diversity of the crested macaque across Indonesia (PI [Marlen Kücklich](https://www.eva.mpg.de/pbe/people/marlen-kuecklich/)
+* The suitability of road verges for protected grassland plant species assessed at the gene level (PI [Sabrina Trager](https://www.botanik.uni-halle.de/pflanzenoekologie/sabrina_traeger/))
 
 ## Recently published side projects (<5 years)
 * The compilation of an amphibian checklist for Shimba Hills National Reserve, Kenya [(here)](https://www.ajol.info/index.php/jeanh/article/view/162372)
@@ -29,6 +29,6 @@ Aside from my PhD and Postdoc projects I have been and am involved in numerous c
 * The effects of missing data on phylogenetic inference using short read high-throughput (RAD-seq) data [(here)](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12335)
 * How environmental variability in chimpanzee habitats has a positive influence on behavioural diversity [(here)](https://www.nature.com/articles/s41467-020-18176-3)
 * Recent connectivity between chimpanzee populations and subspecies across Africa [(here)](https://www.nature.com/articles/s42003-021-01806-x)
-* The relation ship between fruit colour and trichromatic colour vision in primates [(here)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2731)
+* The relationship between fruit colour and trichromatic colour vision in primates [(here)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2731)
 * A review on existing approaches in macroevolution and conservation [(here)](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05557)
 <img src="https://cd-barratt.github.io/H. mitchelli_Kibasira.JPG"  align="center" width="700">
