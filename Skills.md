@@ -3,7 +3,7 @@ I am trained in frequentist and Bayesian statistics and have strong analytical a
 
 * Genomic data processing/filtering - Stacks, iPyrad, dDocent, ANGSD, snpAD, GATK, FastQC, VCFtools, snpeff
 * Population structure and genetic diversity - Adegenet, DAPC, Admixture, Structure, Ngsadmix, PCAngsd, FineStructure, FineRADstructure, EEMS
-* Phylogenetics/phylogenomics - RAxMl, Astral III, BEAST, Treemix
+* Phylogenetics/phylogenomics - RAxML, Astral-III, BEAST, SVDquartets, Treemix
 * Demographic history - ∂a∂i, SMC++, Stairway plot, Extended Bayesian Skyline plots
 * Spatial data analysis - many R packages for spatial data manipulation and analysis (e.g. rgdal, raster, rgeos, sf, SDMTools, maptools, sp, rgbif, spdep, spatialreg)
 * Species distribution modelling - single algorithm (e.g. random forest, maxent, glm, booster regression trees) ensemble modelling approaches (sdm, biomod2)
