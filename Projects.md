@@ -20,7 +20,7 @@ Aside from my PhD and Postdoc projects I have been and am currently involved in 
 
 ### Ongoing:
 * Anthropogenic impact on stress hormones and genetic diversity of the crested macaque across Indonesia (PI [Marlen Kücklich](https://www.eva.mpg.de/pbe/people/marlen-kuecklich/))
-* The suitability of road verges for protected grassland plant species assessed at the gene level (PI [Sabrina Trager](https://www.botanik.uni-halle.de/pflanzenoekologie/sabrina_traeger/))
+* The suitability of road verges for protected grassland plant species assessed at the gene level (PI [Sabrina Träger](https://www.botanik.uni-halle.de/pflanzenoekologie/sabrina_traeger/))
 * Conservation genomics of _Alytes obstetricans_ in Germany (collaboration with [NABU EU-LIFE](https://niedersachsen.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/life-bovar/index.html) project)
 * The genomic consequences of megafaunal frugivore extinctions on the palms of Madagascar [(Laura Mendez Cuellar)](https://www.idiv.de/en/profile/1062.html)
 * Evolutionary ecology of the mangrove species Lumnitzera across its range and the role of connectivity and isolation in phylogeographic patterns [(Jeprianto Manurung)](https://www.researchgate.net/profile/Jeprianto-Manurung)
