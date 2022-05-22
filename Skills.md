@@ -5,6 +5,7 @@ I am trained in frequentist and Bayesian statistics and have strong analytical a
 * Population structure and genetic diversity - Adegenet, DAPC, Admixture, Structure, Ngsadmix, PCAngsd, FineStructure, FineRADstructure, EEMS
 * Phylogenetics/phylogenomics - RAxML, Astral-III, BEAST, SVDquartets, Treemix
 * Demographic history - ∂a∂i, SMC++, Stairway plot, Extended Bayesian Skyline plots
+* Local adaptation - RDA, LFMM, PCAdapt, BayPass
 * Spatial data analysis - many R packages for spatial data manipulation and analysis (e.g. rgdal, raster, rgeos, sf, SDMTools, maptools, sp, rgbif, spdep, spatialreg)
 * Species distribution modelling - single algorithm (e.g. random forest, maxent, glm, booster regression trees) ensemble modelling approaches (sdm, biomod2)
 * Linear/Bayesian regression/model selection and averaging - glmulti, mumin, brms
