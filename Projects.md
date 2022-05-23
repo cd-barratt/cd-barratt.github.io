@@ -35,4 +35,4 @@ Aside from my own projects, I am involved in numerous ongoing collaborations (al
 * How environmental variability in chimpanzee habitats has a positive influence on behavioural diversity [(here)](https://www.nature.com/articles/s41467-020-18176-3)
 * Recent connectivity between chimpanzee populations and subspecies across Africa [(here)](https://www.nature.com/articles/s42003-021-01806-x)
 * The relationship between fruit colour and trichromatic colour vision in primates [(here)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2731)
-* A review on existing approaches in macroevolution and conservation [(here)](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05557)
+* A review on existing approaches in macroevolution and macroecology and their potential contribution to conservation [(here)](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05557)
