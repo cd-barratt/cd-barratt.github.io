@@ -1,5 +1,5 @@
 ## Skills
-I am trained in frequentist and Bayesian statistics and have strong analytical and technical skills (including configuring environments for parallelization via HPC). I like to keep up to date with my skills, so I regularly attend courses and workshops to stay at the leading edge of analytical and conceptual advancements. For brevity I will not list all the tools I use, but here are some examples of the kinds of software tools/packages that I use regularly in my work (mostly in R, bash and python):
+I am trained in frequentist and Bayesian statistics and have strong analytical and technical skills (including configuring environments for parallelisation via HPC). I like to keep up to date with things so I regularly attend courses and workshops to stay at the leading edge of analytical and conceptual advancements. For brevity I will not list all the tools I use, but here are some examples of the kinds of software tools/packages that I use regularly in my work (mostly in R, bash and python):
 
 * Genomic data processing/filtering - Stacks, iPyrad, dDocent, ANGSD, snpAD, GATK, FastQC, VCFtools, snpeff
 * Population structure and genetic diversity - Adegenet, DAPC, Admixture, Structure, Ngsadmix, PCAngsd, FineStructure, FineRADstructure, EEMS
@@ -7,7 +7,7 @@ I am trained in frequentist and Bayesian statistics and have strong analytical a
 * Demographic history - ∂a∂i, SMC++, Stairway plot, Extended Bayesian Skyline plots
 * Local adaptation - RDA, LFMM, PCAdapt, BayPass
 * Spatial data analysis - many R packages for spatial data manipulation and analysis (e.g. rgdal, raster, rgeos, sf, SDMTools, maptools, sp, rgbif, spdep, spatialreg)
-* Species distribution modelling - single algorithm (e.g. random forest, maxent, glm, booster regression trees) ensemble modelling approaches (sdm, biomod2)
+* Species distribution modelling - single algorithm (e.g. random forest, maxent, glm, boosted regression trees) ensemble modelling approaches (sdm, biomod2)
 * Linear/Bayesian regression/model selection and averaging - glmulti, mumin, brms
 
 <img src="https://cd-barratt.github.io/R_logo.svg.png"  align="left" width="100">
