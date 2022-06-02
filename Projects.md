@@ -13,7 +13,7 @@ This work is a follow up from [Bwong et al. 2020](https://www.tandfonline.com/do
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/Dynamic_aspects.JPEG"  align="right" width="400">
 ### Dynamic aspects of chimpanzee diversification using paleoclimate and genomic data (2018-2021)
 I investigate the historical habitat connectivity and demographic history of chimpanzee populations over the last 120,000 years using paleoclimate and genomic data. These data are providing novel information about the environmental and evolutionary mechanisms that have driven chimpanzee diversification. In turn this helps us understand their complex patterns of genetic and cultural diversity, simultaneously providing essential conservation data for our closest living relative.
-**Collaborators:** Hjalmar Kühl (MPI-EVA and iDiv, Leipzig, Germany), Mimi Arandjelovic (MPI-EVA and iDiv, Leipzig, Germany), Christoph Boesch (MPI-EVA Leipzig, Germany), Paolo Gratton (University of Rome Tor Vergata), Jack Lester (MPI-EVA Leipzig, Germany), Tomas Marques-Bonet (Universitat Pompeu Fabra, Barcelona), Renske Onstein (iDiv, Leipzig, Germany)
+**Collaborators:** Hjalmar Kühl (MPI-EVA and iDiv, Leipzig, Germany), Mimi Arandjelovic (MPI-EVA and iDiv, Leipzig, Germany), Christoph Boesch (MPI-EVA Leipzig, Germany), Paolo Gratton (University of Rome Tor Vergata), Jack Lester (MPI-EVA Leipzig, Germany), Renske Onstein (iDiv, Leipzig, Germany)
 
 
 ## Current collaborative projects (as co-PI)
