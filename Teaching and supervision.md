@@ -5,7 +5,7 @@
 * Teaching Assistant for BSc level Biology students (tutorials and experimental lab classes) - ~200 hours over 2.5 years at the University of Salford (2010-2012)
 
 ### Workshops
-* Designed and led several 1-2 day workshops at the University of Basel and iDiv, mainly based on understanding how to process and interpret genomic data (e.g. data processing, population structure, genetic diversity, estimating migration, demographic history) and species distribution modelling. (2015-2016, 2018, 2019, 2022)
+* Designed and led several 1-2 day workshops (e.g. see [here](https://cd-barratt.github.io/ddRAD-seq_workshop/)) at the University of Basel and iDiv, mainly based on understanding how to process and interpret genomic data (e.g. data processing, population structure, genetic diversity, estimating migration, demographic history) and species distribution modelling. (2015-2016, 2018, 2019, 2022)
 
 ### Biodiversity data collection techniques and field biology
 * Field teaching assistant for BSc level Biology students - 3 residential field courses and ~15 single day excursions to train practical skills in field identification of species and data collection techniques at the University of Salford (2010-2012)
