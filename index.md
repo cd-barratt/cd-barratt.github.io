@@ -10,7 +10,8 @@ My research aims are to understand evolutionary and ecological patterns and the 
 For a full CV see [here](/Barratt_CV_full.pdf)
 
 ### Academic history post-PhD
-I am currently a postdoc at iDiv (German Centre for Integrative Biodiversity Research) with an sDiv individual grant (as main PI) for a project to quantify population vulnerability to global change by integrating molecular, ecological and environmental data. For information about this and other ongoing projects please see ['Projects'](https://cd-barratt.github.io/Projects).
+
+From September 2024 I'll work as a researcher at the [Centre for Genetic Resources](https://www.wur.nl/en/research-results/statutory-research-tasks/centre-for-genetic-resources-the-netherlands.htm), in Wageningen (Netherlands).  I am currently a postdoc at Naturalis Biodiversity Center in Leiden (Netherlands) where I'm completing a project initiated at iDiv (German Centre for Integrative Biodiversity Research) with an sDiv individual grant (as main PI) to quantify population vulnerability to global change by integrating molecular, ecological and environmental data. For information about this and other ongoing projects please see ['Projects'](https://cd-barratt.github.io/Projects).
 
 In August 2018 until March 2021 I was awarded Flexpool grant as main PI to work on a project to measure habitat connectivity of chimpanzees over the last 120,000 years and quantify their historical demography using genomic data here at iDiv and the Max Planck Institute (Department of Primatology) in Leipzig (see [Barratt et al. 2021](https://onlinelibrary.wiley.com/doi/full/10.1002/ajp.23320), [Lester et al. 2021](https://www.nature.com/articles/s42003-021-01806-x), [Kalan et al. 2020](https://www.nature.com/articles/s41467-020-18176-3), two additional publications forthcoming).
 
