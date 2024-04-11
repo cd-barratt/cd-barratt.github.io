@@ -5,12 +5,14 @@ Feel free to get in touch!
 c.d.barratt@gmail.com
 
 ### Current institution: 
-German Centre for Integrative Biodiversity Research (iDiv),
-Puschstrasse 4,
-04103 Leipzig,
-Germany
+Naturalis Biodiversity Center,
+Darwinweg 2,
+2333 CR, 
+Leiden,
+Netherlands
 
-<img src="https://cd-barratt.github.io/iDiv_logo.png"  align="left" width="500">
+![image](https://cd-barratt.github.io/Naturalis_logo.png)
+
 
 
 
