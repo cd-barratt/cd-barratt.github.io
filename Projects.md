@@ -4,9 +4,11 @@ Projects within the [Centre for Genetic Resources](https://www.wur.nl/nl/onderzo
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/CGN_ABG_projects.png"  align="centre" width="400">
 
-[Conservation of aquatic genetic resources](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands/show-cgn-uk/monitoring-of-aquatic-genetic-resources-1650-aquatic-samples-collected-for-genetic-analysis.htm)
-[European black bee conservation genomics and sperm cryopreservation](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands/show-cgn-uk/endangered-european-dark-bee-in-search-of-the-pure-colonies.htm)
-[eDNA metabarcoding to monitor biodiversity](https://www.wur.nl/en/research-results/chair-groups/research-funded-by-the-ministry-of-lvvn/soorten-onderzoek/kennisonline/edna-metabarcoding-to-monitor-biodiversity-in-livestock-production-systems.htm)
+*[Conservation of aquatic genetic resources](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands/show-cgn-uk/monitoring-of-aquatic-genetic-resources-1650-aquatic-samples-collected-for-genetic-analysis.htm)
+
+*[European black bee conservation genomics and sperm cryopreservation](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands/show-cgn-uk/endangered-european-dark-bee-in-search-of-the-pure-colonies.htm)
+
+*[eDNA metabarcoding to monitor biodiversity](https://www.wur.nl/en/research-results/chair-groups/research-funded-by-the-ministry-of-lvvn/soorten-onderzoek/kennisonline/edna-metabarcoding-to-monitor-biodiversity-in-livestock-production-systems.htm)
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/LOE.png"  align="right" width="400">
 ### [Life on the edge (2021-2024)](https://cd-barratt.github.io/Life_on_the_edge.github.io/)
