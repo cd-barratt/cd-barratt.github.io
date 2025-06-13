@@ -1,6 +1,9 @@
 ## Research projects (as main PI)
+### Current projects at Wageningen University and Research
+Projects within the [Centre for Genetic Resources](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands-1.htm) and [Animal Breeding and Genomics](https://www.wur.nl/en/research-results/chair-groups/animal-sciences/animal-breeding-and-genomics-group.htm):
+
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/CGN_ABG_projects.png"  align="right" width="400">
-### Current projects at (Centre for Genetic Resources)[https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands-1.htm] and (Animal Breeding and Genomics)[https://www.wur.nl/en/research-results/chair-groups/animal-sciences/animal-breeding-and-genomics-group.htm] group at Wageningen University and Research
+
 [Conservation of aquatic genetic resources](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands/show-cgn-uk/monitoring-of-aquatic-genetic-resources-1650-aquatic-samples-collected-for-genetic-analysis.htm)
 [European black bee conservation genomics and sperm cryopreservation](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands/show-cgn-uk/endangered-european-dark-bee-in-search-of-the-pure-colonies.htm)
 [eDNA metabarcoding to monitor biodiversity](https://www.wur.nl/en/research-results/chair-groups/research-funded-by-the-ministry-of-lvvn/soorten-onderzoek/kennisonline/edna-metabarcoding-to-monitor-biodiversity-in-livestock-production-systems.htm)
