@@ -1,5 +1,7 @@
 ## Research projects (as main PI)
-### Projects within the [Centre for Genetic Resources](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands-1.htm) and [Animal Breeding and Genomics](https://www.wur.nl/en/research-results/chair-groups/animal-sciences/animal-breeding-and-genomics-group.htm) at Wageningen University and Research:
+### Wageningen University and Research projects (2024-)
+
+The below three projects are within the [Centre for Genetic Resources](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands-1.htm) and [Animal Breeding and Genomics group](https://www.wur.nl/en/research-results/chair-groups/animal-sciences/animal-breeding-and-genomics-group.htm):
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/CGN_ABG_projects.png"  align="left" width="300">
 
