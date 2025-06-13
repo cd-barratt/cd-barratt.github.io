@@ -9,6 +9,8 @@ Projects within the [Centre for Genetic Resources](https://www.wur.nl/nl/onderzo
 
 [*eDNA metabarcoding to monitor biodiversity](https://www.wur.nl/en/research-results/chair-groups/research-funded-by-the-ministry-of-lvvn/soorten-onderzoek/kennisonline/edna-metabarcoding-to-monitor-biodiversity-in-livestock-production-systems.htm)
 
+
+
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/LOE.png"  align="right" width="400">
 ### [Life on the edge (2021-2024)](https://cd-barratt.github.io/Life_on_the_edge.github.io/)
 Global change threatens biodiversity, with many species unable to respond fast enough to changing conditions due to rapid climate change and anthropogenic impacts. Population declines are our early warning signals for larger scale declines in species, so assessing the adaptive capacity of populations within species and quantifying their vulnerability under future global change remains a priority for biodiversity research. This is the focus of my recently funded and now completed project, “Life on the edge: A new informatic toolbox to conserve wildlife populations under threat from global change”, for which I obtained a 3 year grant from sDiv, the synthesis centre of iDiv (German Centre for Integrative Biodiversity Research). In this project I integrate ecological (traits, species distribution models), environmental (climate change forecasts, landscape connectivity) and genome-wide molecular data (neutral and adaptive diversity) for populations across multiple species in a novel, automated and extendable climate change vulnerability assessment framework. 
