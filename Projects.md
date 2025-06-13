@@ -1,4 +1,10 @@
 ## Research projects (as main PI)
+<img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/Dynamic_aspects.JPEG"  align="right" width="400">
+### Current projects at (Centre for Genetic Resources)[https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands-1.htm] and (Animal Breeding and Genomics)[https://www.wur.nl/en/research-results/chair-groups/animal-sciences/animal-breeding-and-genomics-group.htm] group at Wageningen University and Research
+[Conservation of aquatic genetic resources](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands/show-cgn-uk/monitoring-of-aquatic-genetic-resources-1650-aquatic-samples-collected-for-genetic-analysis.htm)
+[European black bee conservation genomics and sperm cryopreservation](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands/show-cgn-uk/endangered-european-dark-bee-in-search-of-the-pure-colonies.htm)
+[eDNA metabarcoding to monitor biodiversity](https://www.wur.nl/en/research-results/chair-groups/research-funded-by-the-ministry-of-lvvn/soorten-onderzoek/kennisonline/edna-metabarcoding-to-monitor-biodiversity-in-livestock-production-systems.htm)
+
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/LOE.png"  align="right" width="400">
 ### [Life on the edge (2021-2024)](https://cd-barratt.github.io/Life_on_the_edge.github.io/)
 Global change threatens biodiversity, with many species unable to respond fast enough to changing conditions due to rapid climate change and anthropogenic impacts. Population declines are our early warning signals for larger scale declines in species, so assessing the adaptive capacity of populations within species and quantifying their vulnerability under future global change remains a priority for biodiversity research. This is the focus of my recently funded and now completed project, “Life on the edge: A new informatic toolbox to conserve wildlife populations under threat from global change”, for which I obtained a 3 year grant from sDiv, the synthesis centre of iDiv (German Centre for Integrative Biodiversity Research). In this project I integrate ecological (traits, species distribution models), environmental (climate change forecasts, landscape connectivity) and genome-wide molecular data (neutral and adaptive diversity) for populations across multiple species in a novel, automated and extendable climate change vulnerability assessment framework. 
@@ -9,11 +15,6 @@ Global change threatens biodiversity, with many species unable to respond fast e
 I study cryptic diversity within the _Hyperolius mitchelli_ species complex across East Africa. 
 This work is a follow up from [Bwong et al. 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155) and will generate a new genome-wide dataset for these amphibians and combine genetic diversity estimates with climate change forecasts and species distribution models to predict potential future population declines.
 **Collaborators:** John V. Lyakurwa (University of Dar es Salaam, Tanzania), Beryl Bwong (National Museums of Kenya), Hendrik Müller (University of Halle, Germany), Christoph Conrad (University of Halle, Germany), Simon Loader (National History Museum, London, UK), Sebastian Steinfartz (University of Leipzig, Germany)
-
-<img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/Dynamic_aspects.JPEG"  align="right" width="400">
-### Dynamic aspects of chimpanzee diversification using paleoclimate and genomic data (2018-2021)
-I investigate the historical habitat connectivity and demographic history of chimpanzee populations over the last 120,000 years using paleoclimate and genomic data. These data are providing novel information about the environmental and evolutionary mechanisms that have driven chimpanzee diversification. In turn this helps us understand their complex patterns of genetic and cultural diversity, simultaneously providing essential conservation data for our closest living relative.
-**Collaborators:** Hjalmar Kühl (MPI-EVA and iDiv, Leipzig, Germany), Mimi Arandjelovic (MPI-EVA and iDiv, Leipzig, Germany), Christoph Boesch (MPI-EVA Leipzig, Germany), Paolo Gratton (University of Rome Tor Vergata), Jack Lester (MPI-EVA Leipzig, Germany), Renske Onstein (iDiv, Leipzig, Germany)
 
 
 ## Current collaborative projects (as co-PI)
