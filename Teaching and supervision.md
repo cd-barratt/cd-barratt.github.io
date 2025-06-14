@@ -12,16 +12,17 @@
 * Field instructor for tropical ecology data collection (amphibians, birds, butterflies, small mammals, carnivores and large mammal tracking) - Frontier Tanzania Savannah Research Project (2008-2009)
 
 
-### Supervision
+## Supervision (PhD students)
+
 I have mentored and supervised several undergraduate and postgraduate students at many academic levels (BTEC, BSc, MSc). For details please see my full [CV](/Barratt_CV_full.pdf)
 
-## Ongoing:
+### Ongoing:
 * [(Rensco Hogers)](https://www.linkedin.com/mwlite/profile/in/rensco-hogers?originalSubdomain=nl) (2024-)
 
 * [(Marilia Souza Lucas)](https://mariliasouza20.wixsite.com/marilia) (2021-)
 
 
-## Past:
+### Past:
 * [(Francisco Velasquez Puentes)](https://www.idiv.de/en/profile/1148.html) (2019-2024)
 * [(Jeprianto Manurung)](https://www.researchgate.net/profile/Jeprianto-Manurung) (2019-2023)
 * [(Laura Mendez Cuellar)](https://www.idiv.de/en/profile/1062.html) (2018-2023)
