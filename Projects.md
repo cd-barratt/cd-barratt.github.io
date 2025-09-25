@@ -33,24 +33,16 @@ Global change threatens biodiversity, with many species unable to respond fast e
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/H. mitchelli_Kibasira.jpeg"  align="right" width="150">
 ### Cryptic genetic diversity under climate change (2022-2023)
-I study cryptic diversity within the _Hyperolius mitchelli_ species complex across East Africa. 
-This work is a follow up from [Bwong et al. 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155) and generated a new genome-wide dataset for these to combine genetic diversity estimates with climate change forecasts and species distribution models, and predict potential future population declines.
+We study population diversity within the _Hyperolius mitchelli_ species complex across East Africa. 
+This work is a follow up from [Bwong et al. 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155) and generated a new genome-wide dataset for these to combine genetic diversity estimates with climate change forecasts and species distribution models, and predict potential future population declines. It is recently accepted in Evolutionary Applications, see [here](https://onlinelibrary.wiley.com/journal/17524571)
 **Collaborators:** John V. Lyakurwa (University of Dar es Salaam, Tanzania), Beryl Bwong (National Museums of Kenya), Hendrik Müller (University of Halle, Germany), Christoph Conrad (University of Halle, Germany), Simon Loader (National History Museum, London, UK), Sebastian Steinfartz (University of Leipzig, Germany)
 
 
 ## Current collaborative projects (as co-PI)
 Aside from my own projects, I am involved in numerous ongoing collaborations (also with students that I supervise). Some of these are listed below:
-
-* Demographic history and diversification of Central African amphibians (PI [Greg Jongsma](https://gregjongsma.weebly.com/), Florida Museum of Natural History)
-* Anthropogenic impact on stress hormones and genetic diversity of the crested macaque across Indonesia (PI [Marlen Kücklich](https://www.eva.mpg.de/pbe/people/marlen-kuecklich/), Max Planck Institute for Evolutionary Anthropology, Leipzig)
-* The suitability of road verges for protected grassland plant species assessed at the gene level (PI [Sabrina Träger](https://www.botanik.uni-halle.de/pflanzenoekologie/sabrina_traeger/), Martin Luther University, Halle)
-* Conservation genomics of _Alytes obstetricans_ in Germany (collaboration with Sebastian Steinfartz (University of Leipzig) and [NABU EU-LIFE](https://niedersachsen.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/life-bovar/index.html) project)
-* The genomic consequences of megafaunal frugivore extinctions on the palms of Madagascar [(Laura Mendez Cuellar, iDiv, Leipzig)](https://www.idiv.de/en/profile/1062.html)
-* Evolutionary ecology of the mangrove species _Lumnitzera_ across its range and the role of connectivity and isolation in phylogeographic patterns [(Jeprianto Manurung, University of Leipzig)](https://www.researchgate.net/profile/Jeprianto-Manurung)
-* Micro- and macro-evolutionary dynamics of seasonally dry neotropical forests [(Francisco Velasquez Puentes, iDiv, Leipzig)](https://www.idiv.de/en/profile/1148.html)
 * Mechanisms of rapid evolution in native and non-native populations of the invasive weed _Conyza canadensis_ [(Marilia Souza Lucas, Martin Luther University, Halle)](https://mariliasouza20.wixsite.com/marilia)
 
-## Recently published side projects (in the last ~5 years)
+## Recently published projects (in the last ~6 years)
 * The compilation of an amphibian checklist for Shimba Hills National Reserve, Kenya [(here)](https://www.ajol.info/index.php/jeanh/article/view/162372)
 * Large-scale collaborative efforts on African amphibian evolution/biogeographical studies [(here)](https://www.sciencedirect.com/science/article/pii/S1055790316302433), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790317303147), [(here)](https://academic.oup.com/sysbio/article/68/6/859/5477408?login=true), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790316303451)
 * The effects of missing data on phylogenetic inference using short read high-throughput (RAD-seq) data [(here)](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12335)
@@ -58,3 +50,9 @@ Aside from my own projects, I am involved in numerous ongoing collaborations (al
 * Recent connectivity between chimpanzee populations and subspecies across Africa [(here)](https://www.nature.com/articles/s42003-021-01806-x)
 * The relationship between fruit colour and trichromatic colour vision in primates [(here)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2731)
 * A review on existing approaches in macroevolution and macroecology and their potential contribution to conservation [(here)](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05557)
+* Evolutionary ecology of the mangrove species _Lumnitzera_ across its range and the role of connectivity and isolation in phylogeographic patterns [(Jeprianto Manurung, University of Leipzig)](https://www.researchgate.net/profile/Jeprianto-Manurung)[(here)](https://onlinelibrary.wiley.com/doi/full/10.1111/jse.12923)
+* Fragmentation effects on Malagasy small mammals (collaboration with Malcolm Ramsay (University of Toronto))[(here)](https://www.mdpi.com/2073-4425/14/7/1451)
+* The genomic consequences of megafaunal frugivore extinctions on the palms of Madagascar [(Laura Mendez Cuellar, iDiv, Leipzig)](https://www.idiv.de/en/profile/1062.html)[(here)]([https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2731](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14340)
+* Micro- and macro-evolutionary dynamics of seasonally dry neotropical forests [(Francisco Velasquez Puentes, iDiv, Leipzig)](https://www.idiv.de/en/profile/1148.html)[(here)](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13730)
+* Conservation genomics of _Alytes obstetricans_ in Germany (collaboration with Sebastian Steinfartz (University of Leipzig) and [NABU EU-LIFE](https://niedersachsen.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/life-bovar/index.html) project)[(here)](https://www.nature.com/articles/s41437-024-00710-4)
+
