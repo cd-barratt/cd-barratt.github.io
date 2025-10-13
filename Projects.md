@@ -33,8 +33,7 @@ Global change threatens biodiversity, with many species unable to respond fast e
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/H. mitchelli_Kibasira.jpeg"  align="right" width="150">
 ### Cryptic genetic diversity under climate change (2022-2023)
-We study population diversity within the _Hyperolius mitchelli_ species complex across East Africa. 
-This work is a follow up from [Bwong et al. 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155) and generated a new genome-wide dataset for these to combine genetic diversity estimates with climate change forecasts and species distribution models, and predict potential future population declines. It is recently accepted in Evolutionary Applications, see [here](https://onlinelibrary.wiley.com/journal/17524571). 
+Recently published in Evolutionary Applications [here](https://onlinelibrary.wiley.com/journal/17524571) is our a follow up from [Bwong et al. 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155) where we generated a new genome-wide dataset for the East African reedfrogs _Hyperolius mitchelli_ and _H. rubrovermiculatus_ to combine genetic diversity estimates with climate change forecasts and species distribution models, and predict potential future population declines. 
 **Collaborators:** John V. Lyakurwa (University of Dar es Salaam, Tanzania), Beryl Bwong (National Museums of Kenya), Lucinda P. Lawson (University of Cincinnati), Hendrik Müller (University of Halle, Germany), Robert Jehle (University of Salford, UK), Simon Loader (National History Museum, London, UK), Sebastian Steinfartz (University of Leipzig, Germany)
 
 
@@ -42,7 +41,7 @@ This work is a follow up from [Bwong et al. 2020](https://www.tandfonline.com/do
 Aside from my own projects, I am involved in numerous ongoing collaborations (also with students that I supervise). Some of these are listed below:
 * Mechanisms of rapid evolution in native and non-native populations of the invasive weed _Conyza canadensis_ [(Marilia Souza Lucas, Martin Luther University, Halle)](https://mariliasouza20.wixsite.com/marilia)
 
-## Recently published projects (in the last ~6 years)
+## Recently published side projects (in the last ~6 years)
 * The compilation of an amphibian checklist for Shimba Hills National Reserve, Kenya [(here)](https://www.ajol.info/index.php/jeanh/article/view/162372)
 * Large-scale collaborative efforts on African amphibian evolution/biogeographical studies [(here)](https://www.sciencedirect.com/science/article/pii/S1055790316302433), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790317303147), [(here)](https://academic.oup.com/sysbio/article/68/6/859/5477408?login=true), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790316303451)
 * The effects of missing data on phylogenetic inference using short read high-throughput (RAD-seq) data [(here)](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12335)
