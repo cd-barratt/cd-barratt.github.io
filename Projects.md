@@ -33,7 +33,7 @@ Global change threatens biodiversity, with many species unable to respond fast e
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/H. mitchelli_Kibasira.jpeg"  align="right" width="150">
 ### Cryptic genetic diversity under climate change (2022-2023)
-Recently published in Evolutionary Applications [here](https://onlinelibrary.wiley.com/journal/17524571) is our a follow up from [Bwong et al. 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155) where we generated a new genome-wide dataset for the East African reedfrogs _Hyperolius mitchelli_ and _H. rubrovermiculatus_ to combine genetic diversity estimates with climate change forecasts and species distribution models, and predict potential future population declines. 
+Recently published in Evolutionary Applications [here](https://onlinelibrary.wiley.com/journal/17524571) is our a follow up from [Bwong et al. 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155) focused on the East African reedfrogs _Hyperolius mitchelli_ and _H. rubrovermiculatus_. In this work we generated a new genome-wide dataset to combine genetic diversity and local adaptation estimates with climate change forecasts and species distribution models, with the goal of aiding conservation management efforts. 
 **Collaborators:** John V. Lyakurwa (University of Dar es Salaam, Tanzania), Beryl Bwong (National Museums of Kenya), Lucinda P. Lawson (University of Cincinnati), Hendrik Müller (University of Halle, Germany), Robert Jehle (University of Salford, UK), Simon Loader (National History Museum, London, UK), Sebastian Steinfartz (University of Leipzig, Germany)
 
 
