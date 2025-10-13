@@ -37,10 +37,6 @@ Recently published in Evolutionary Applications [here](https://onlinelibrary.wil
 **Collaborators:** John V. Lyakurwa (University of Dar es Salaam, Tanzania), Beryl Bwong (National Museums of Kenya), Lucinda P. Lawson (University of Cincinnati), Hendrik Müller (University of Halle, Germany), Robert Jehle (University of Salford, UK), Simon Loader (National History Museum, London, UK), Sebastian Steinfartz (University of Leipzig, Germany)
 
 
-## Current collaborative projects (as co-PI)
-Aside from my own projects, I am involved in numerous ongoing collaborations (also with students that I supervise). Some of these are listed below:
-* Mechanisms of rapid evolution in native and non-native populations of the invasive weed _Conyza canadensis_ [(Marilia Souza Lucas, Martin Luther University, Halle)](https://mariliasouza20.wixsite.com/marilia)
-
 ## Recently published side projects (in the last ~6 years)
 * The compilation of an amphibian checklist for Shimba Hills National Reserve, Kenya [(here)](https://www.ajol.info/index.php/jeanh/article/view/162372)
 * Large-scale collaborative efforts on African amphibian evolution/biogeographical studies [(here)](https://www.sciencedirect.com/science/article/pii/S1055790316302433), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790317303147), [(here)](https://academic.oup.com/sysbio/article/68/6/859/5477408?login=true), [(here)](https://www.sciencedirect.com/science/article/abs/pii/S1055790316303451)
