@@ -42,7 +42,7 @@ Recently published in Evolutionary Applications [here](https://onlinelibrary.wil
 * Large-scale collaborative efforts on African amphibian evolution/biogeographical studies [link](https://www.sciencedirect.com/science/article/pii/S1055790316302433), [link](https://www.sciencedirect.com/science/article/abs/pii/S1055790317303147), [link](https://academic.oup.com/sysbio/article/68/6/859/5477408?login=true), [link](https://www.sciencedirect.com/science/article/abs/pii/S1055790316303451)
 * The effects of missing data on phylogenetic inference using short read high-throughput (RAD-seq) data [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12335)
 * How environmental variability in chimpanzee habitats has a positive influence on behavioural diversity [link](https://www.nature.com/articles/s41467-020-18176-3)
-* Recent connectivity between chimpanzee populations and subspecies across Africa [here](https://www.nature.com/articles/s42003-021-01806-x)
+* Recent connectivity between chimpanzee populations and subspecies across Africa [link](https://www.nature.com/articles/s42003-021-01806-x)
 * The relationship between fruit colour and trichromatic colour vision in primates [link](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2731)
 * A review on existing approaches in macroevolution and macroecology and their potential contribution to conservation [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05557)
 * Evolutionary ecology of the mangrove species _Lumnitzera_ across its range and the role of connectivity and isolation in phylogeographic patterns [link](https://onlinelibrary.wiley.com/doi/full/10.1111/jse.12923)
