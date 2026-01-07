@@ -7,7 +7,7 @@
 My research aim is to categorise and understand biodiversity patterns and the underlying eco-evolutionary mechanisms that shape them, to provide insights and tools that assist biodiversity management in our rapidly changing world. I i) investigate patterns and mechanisms shaping diversity in changing environments (past, present and future) across individuals, populations and species, and ii) develop cutting edge bio- and eco-informatic tools for automating complex analyses with practical applications for biodiversity monitoring and management. My areas of expertise are in population genomics, bioinformatics, and ecoinformatics. I have a special focus on African and European vertebrates in my research but I also work with other taxonomic groups (e.g. plants, invertebrates, fungi) in different geographical areas (e.g. Madagascar, Asia, South America).
 
 ## CV
-For a full CV see [here](/Barratt_CV_full.pdf)
+For a full CV see [here](/Barratt_CV_full.pdf) (updated Jan 2026)
 
 ### Academic history post-PhD
 
