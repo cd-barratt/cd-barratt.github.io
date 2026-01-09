@@ -29,7 +29,7 @@ The below three projects are my current main topics within the [Centre for Genet
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/LOE.png"  align="right" width="400">
 ### [Life on the edge](https://cd-barratt.github.io/Life_on_the_edge.github.io/)
 Global change threatens biodiversity, with many species unable to respond fast enough to changing conditions due to rapid climate change and anthropogenic impacts. We recently published “Life on the edge: A new informatic toolbox to conserve wildlife populations under threat from global change”, to help predict which parts of species ranges (i.e. populations) are likely to come under most pressure. For this we integrated ecological (traits, species distribution models), environmental (climate change forecasts, landscape connectivity) and genome-wide molecular data (neutral and adaptive diversity) for populations across multiple species in a novel, automated and extendable climate change vulnerability assessment framework. You can see [here](https://www.youtube.com/live/ul1CU8_8C_E?feature=shared&t=1223) for a  nice overview in a talk at the European Reference Genome Atlas seminar series about it. 
-_Please note that there are some ongoing developments and new features and applications coming soon for Life on the edge so keep a lookout here for more news!_
+**Please note that there are some ongoing developments and new features and applications coming soon for Life on the edge so keep a lookout here for more news!**
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/H. mitchelli_Kibasira.jpeg"  align="right" width="150">
 ### Cryptic genetic diversity under climate change
