@@ -9,7 +9,7 @@ The below three projects are my current main topics within the [Centre for Genet
   
 * [European black bee conservation genomics and sperm cryopreservation](https://www.wur.nl/nl/onderzoek-resultaten/kennisonline-onderzoeksprojecten-lvvn/centre-for-genetic-resources-the-netherlands/show-cgn-uk/endangered-european-dark-bee-in-search-of-the-pure-colonies.htm)
   
-* [eDNA metabarcoding to monitor biodiversity](/Barratt_CV_full.pdf)
+* [eDNA metabarcoding to monitor biodiversity](/Barratt_NWO_Life_poster.pdf)
 
 
 
