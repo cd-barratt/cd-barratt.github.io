@@ -5,11 +5,11 @@ The below three projects are my current main topics within the [Centre for Genet
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/CGN_ABG_projects.png"  align="left" width="300">
 
-* [Conservation of aquatic genetic resources](https://www.wur.nl/en/cgn/aqua). [Initial results poster](/Barratt_aqua_poster.pdf)
+* [Conservation of aquatic genetic resources](https://www.wur.nl/en/cgn/aqua). [-NLSEB 2025 poster-](/Barratt_aqua_poster.pdf)
   
-* [European black bee conservation genomics and sperm cryopreservation](https://www.wur.nl/en/longread/how-can-we-preserve-european-dark-bee-netherlandsd). [Initial results poster](/Barratt_ECCB_poster.pdf)
+* [European black bee conservation genomics and sperm cryopreservation](https://www.wur.nl/en/longread/how-can-we-preserve-european-dark-bee-netherlandsd). [-ECCB 2026 poster-](/Barratt_ECCB_poster.pdf)
   
-* [eDNA metabarcoding to monitor biodiversity](https://research.wur.nl/en/projects/edna-metabarcoding-to-monitor-biodiversity-in-livestock-productio/). [Initial results poster](/Barratt_NWO_Life_poster.pdf)
+* [eDNA metabarcoding to monitor biodiversity](https://research.wur.nl/en/projects/edna-metabarcoding-to-monitor-biodiversity-in-livestock-productio/). [-NWO Life 2026 poster-](/Barratt_NWO_Life_poster.pdf)
 
 
 
