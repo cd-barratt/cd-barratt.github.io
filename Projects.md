@@ -34,17 +34,14 @@ Global change threatens biodiversity, with many species unable to respond fast e
 ### Cryptic genetic diversity under climate change
 Recently published in Evolutionary Applications [here](https://onlinelibrary.wiley.com/journal/17524571) is our follow up from [Bwong et al. 2020](https://www.tandfonline.com/doi/full/10.1080/21564574.2020.1768155) focused on the East African reedfrogs _Hyperolius mitchelli_ and _H. rubrovermiculatus_. In this work we generated a new genome-wide dataset to combine genetic diversity and local adaptation estimates with climate change forecasts and species distribution models, with the goal of aiding conservation management efforts. 
 
-## Recently published side projects (in the last ~6 years)
-* The compilation of an amphibian checklist for Shimba Hills National Reserve, Kenya [link](https://www.ajol.info/index.php/jeanh/article/view/162372)
-* Large-scale collaborative efforts on African amphibian evolution/biogeographical studies [link](https://www.sciencedirect.com/science/article/pii/S1055790316302433), [link](https://www.sciencedirect.com/science/article/abs/pii/S1055790317303147), [link](https://academic.oup.com/sysbio/article/68/6/859/5477408?login=true), [link](https://www.sciencedirect.com/science/article/abs/pii/S1055790316303451)
-* The effects of missing data on phylogenetic inference using short read high-throughput (RAD-seq) data [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12335)
-* How environmental variability in chimpanzee habitats has a positive influence on behavioural diversity [link](https://www.nature.com/articles/s41467-020-18176-3)
-* Recent connectivity between chimpanzee populations and subspecies across Africa [link](https://www.nature.com/articles/s42003-021-01806-x)
-* The relationship between fruit colour and trichromatic colour vision in primates [link](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2731)
+## Recently published side projects (in the last ~5 years)
 * A review on existing approaches in macroevolution and macroecology and their potential contribution to conservation [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05557)
 * Evolutionary ecology of the mangrove species _Lumnitzera_ across its range and the role of connectivity and isolation in phylogeographic patterns [link](https://onlinelibrary.wiley.com/doi/full/10.1111/jse.12923)
 * Fragmentation effects on Malagasy small mammals [link](https://www.mdpi.com/2073-4425/14/7/1451)
 * The genomic consequences of megafaunal frugivore extinctions on the palms of Madagascar [link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14340)
 * Micro- and macro-evolutionary dynamics of seasonally dry neotropical forests [link](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13730)
 * Conservation genomics of _Alytes obstetricans_ at its European range limits [link](https://www.nature.com/articles/s41437-024-00710-4)
+* Local adaptation in chimpanzees [link](https://www.science.org/doi/abs/10.1126/science.adn7954)
+* Population genomics of a globally invasive weed [link(https://onlinelibrary.wiley.com/doi/full/10.1111/mec.70368)]
+* Local adaptation in a neotropical dry forest tree [link(https://onlinelibrary.wiley.com/doi/full/10.1111/eva.70302)]
 
