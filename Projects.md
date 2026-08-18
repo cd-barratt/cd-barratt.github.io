@@ -42,6 +42,6 @@ Recently published in Evolutionary Applications [here](https://onlinelibrary.wil
 * Micro- and macro-evolutionary dynamics of seasonally dry neotropical forests [link](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13730)
 * Conservation genomics of _Alytes obstetricans_ at its European range limits [link](https://www.nature.com/articles/s41437-024-00710-4)
 * Local adaptation in chimpanzees [link](https://www.science.org/doi/abs/10.1126/science.adn7954)
-* Population genomics of a globally invasive weed [link(https://onlinelibrary.wiley.com/doi/full/10.1111/mec.70368)]
-* Local adaptation in a neotropical dry forest tree [link(https://onlinelibrary.wiley.com/doi/full/10.1111/eva.70302)]
+* Population genomics of a globally invasive weed [link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.70368)
+* Local adaptation in a neotropical dry forest tree [link](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.70302)
 
