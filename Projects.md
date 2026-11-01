@@ -5,7 +5,7 @@ The below three projects are my current main topics within the [Centre for Genet
 
 <img style="padding: 0 15px; float: right;" src="https://cd-barratt.github.io/CGN_ABG_projects.png"  align="left" width="300">
 
-* [Conservation of aquatic genetic resources](/Barratt_et_al_AqGR_NL_preprint.pdf). [-NLSEB 2025 poster-](/Barratt_aqua_poster.pdf)
+* [Conservation of aquatic genetic resources](https://www.biorxiv.org/content/10.64898/2026.10.29.762745v1). [-NLSEB 2025 poster-](/Barratt_aqua_poster.pdf)
   
 * [European black bee conservation genomics and sperm cryopreservation](https://www.wur.nl/en/longread/how-can-we-preserve-european-dark-bee-netherlandsd). [-ECCB 2026 poster-](/Barratt_ECCB_poster.pdf)
   
